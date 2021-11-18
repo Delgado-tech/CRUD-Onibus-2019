@@ -2,7 +2,7 @@
 <p> Projeto desenvolvido durante as aulas de programação web do curso "Informática Para Internet" da escola Etec Elias Miguel Junior (ano de 2019), cujo objetivo era montar uma empresa fictícia de ônibus e criar um portal para registro de viagens, ônibus, passageiros e funcionários, valendo 100% da nota bimestral, tendo prazo de um mês. </p>
 
 -> Diretório para iniciar: `menu>menupg.php` (Na época eu não estava utilizando index.php como nome do arquivo principal) <br>
--> **Front-End Framework: <a href="https://materializecss.com">Materialize</a>**
+-> **Front-End Framework: <a href="https://materializecss.com" target="_blank">Materialize</a>**
 
 > Integrantes do projeto: <br>
 > * Leonardo Delgado (Front-End & Back-End) <br>
